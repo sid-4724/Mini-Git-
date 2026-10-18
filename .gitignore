@@ -1,0 +1,8 @@
+build/
+build-release/
+build-sanitize/
+.tools/
+.minigit/
+__pycache__/
+.DS_Store
+*.zip
